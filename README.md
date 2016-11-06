@@ -1,1 +1,2 @@
-﻿Dark theme for Kvantum. Many stuff WIP, but theme is pretty much usable.
+![alt tag] (https://gitlab.com/darklines/DarkLines/blob/master/Screenshot.png)
+﻿Dark theme for Kvantum. Theme is not finished yet, but it pretty much usable.
