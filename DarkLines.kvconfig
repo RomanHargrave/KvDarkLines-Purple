@@ -58,10 +58,10 @@ frame.left=3
 frame.right=3
 
 [LineEdit]
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 text.margin.left=0
 text.margin.right=0
 
