@@ -1,1 +1,2 @@
 Dark theme for Kvantum. Theme is not finished yet, but it pretty much usable.
+It's recommended to disable side borders for all windows(System Settings > Application Style > Window Decoration > Breeze(Settings button) > WIndow-Specific Overrides > Add new rule, enter space in window name line)
