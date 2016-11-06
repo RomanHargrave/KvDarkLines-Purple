@@ -17,14 +17,14 @@ scroll_arrows=false
 
 [GeneralColors]
 window.color=#212121
-base.color=#303030
-alt.base.color=#303030
+base.color=#212121
+alt.base.color=#212121
 button.color=#494949
 light.color=#626262
 mid.light.color=#555555
 dark.color=#171717
 mid.color=#3C3C3C
-highlight.color=#737373
+highlight.color=#4b5a8e
 inactive.highlight.color=#4A4A4A
 tooltip.base.color=black
 text.color=white
