@@ -9,6 +9,7 @@ center_toolbar_handle=true
 composite=true
 blurring=true
 popup_blurring=true
+menu_shadow_depth=6
 animate_states=true
 button_icon_size=24
 toolbar_icon_size=32
