@@ -10,6 +10,7 @@ composite=true
 blurring=true
 popup_blurring=true
 menu_shadow_depth=6
+tooltip_shadow_depth=12
 animate_states=true
 button_icon_size=24
 toolbar_icon_size=32
@@ -136,6 +137,7 @@ frame.bottom=2
 frame.left=2
 frame.right=2
 
+
 [MenuItem]
 text.margin.top=2
 text.margin.bottom=2
@@ -145,6 +147,8 @@ text.margin.right=3
 [MenuBarItem]
 text.margin.top=2
 text.margin.bottom=2
+text.margin.left=6
+text.margin.right=6
 
 [TitleBar]
 text.margin.top=2
@@ -157,6 +161,7 @@ frame.top=3
 frame.bottom=3
 frame.left=3
 frame.right=3
+text.bold=true
 text.margin.top=2
 text.margin.bottom=2
 text.margin.left=3
