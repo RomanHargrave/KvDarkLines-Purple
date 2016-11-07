@@ -16,6 +16,7 @@ button_icon_size=24
 toolbar_icon_size=32
 merge_menubar_with_toolbar=true
 scroll_arrows=false
+combo_as_lineedit=true
 
 [GeneralColors]
 window.color=#212121
@@ -60,8 +61,8 @@ frame.left=3
 frame.right=3
 
 [LineEdit]
-frame.top=2
-frame.bottom=2
+frame.top=4
+frame.bottom=4
 frame.left=2
 frame.right=2
 text.margin.left=0
@@ -137,7 +138,6 @@ frame.bottom=2
 frame.left=2
 frame.right=2
 
-
 [MenuItem]
 text.margin.top=2
 text.margin.bottom=2
@@ -170,3 +170,4 @@ text.margin.right=3
 [Hacks]
 respect_darkness=true
 blur_konsole=true
+kcapacitybar_as_progressbar=true
