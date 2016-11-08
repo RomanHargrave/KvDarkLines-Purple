@@ -171,3 +171,4 @@ text.margin.right=3
 respect_darkness=true
 blur_konsole=true
 kcapacitybar_as_progressbar=true
+single_top_toolbar=true
