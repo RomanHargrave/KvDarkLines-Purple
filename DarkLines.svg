@@ -32,9 +32,9 @@
      pagecolor="#3e3e3e"
      id="base"
      showgrid="true"
-     inkscape:zoom="5.656854"
-     inkscape:cx="398.84825"
-     inkscape:cy="110.73555"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="164.60573"
+     inkscape:cy="1332.1417"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:current-layer="svg2"
@@ -2546,12 +2546,12 @@
        id="path6430" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#5d5d5d;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 204,675 0,30 3,0 0,-30 -3,0 z"
        id="path6432" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#5d5d5d;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 201,675 0,30 3,0 0,-30 -3,0 z"
        id="path6434" />
   </g>
@@ -5515,12 +5515,12 @@
        id="path6430-6" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#5d5d5d;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 204,675 0,30 3,0 0,-30 -3,0 z"
        id="path6432-2" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#5d5d5d;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 201,675 0,30 3,0 0,-30 -3,0 z"
        id="path6434-9" />
   </g>
@@ -5536,12 +5536,12 @@
        id="path6430-6-2" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#5d5d5d;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 204,675 0,30 3,0 0,-30 -3,0 z"
        id="path6432-2-7" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#5d5d5d;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 201,675 0,30 3,0 0,-30 -3,0 z"
        id="path6434-9-0" />
   </g>
@@ -8159,7 +8159,7 @@
      style="fill:#ffffff;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#272727;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#181818;fill-opacity:1;stroke:none"
        d="m 207,675 0,30 3,0 0,-30 -3,0 z"
        id="path6430-67" />
     <path
@@ -8180,9 +8180,9 @@
      height="30"
      width="30"
      id="button-normal"
-     style="opacity:1;fill:#272727;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="opacity:1;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <rect
-     style="opacity:1;fill:#272727;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-normal-topright"
      width="9"
      height="9"
@@ -8190,7 +8190,7 @@
      y="38.499989"
      inkscape:label="#g7811" />
   <rect
-     style="opacity:1;fill:#272727;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-normal-right"
      width="8.875"
      height="30"
@@ -8198,7 +8198,7 @@
      y="47.499989"
      inkscape:label="#g7819" />
   <rect
-     style="opacity:1;fill:#272727;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-normal-bottomright"
      width="9"
      height="9"
@@ -8206,7 +8206,7 @@
      y="77.499985"
      inkscape:label="#g7751" />
   <rect
-     style="opacity:1;fill:#272727;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-normal-bottom"
      width="8.875"
      height="30"
@@ -8215,7 +8215,7 @@
      inkscape:label="#g7761"
      transform="matrix(0,-1,1,0,0,0)" />
   <rect
-     style="opacity:1;fill:#272727;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-normal-top"
      width="8.875"
      height="30"
@@ -8230,7 +8230,7 @@
      style="fill:#ffffff;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#272727;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#181818;fill-opacity:1;stroke:none"
        d="m 207,675 0,30 3,0 0,-30 -3,0 z"
        id="path6430-6-0" />
     <path
@@ -8251,7 +8251,7 @@
      style="fill:#ffffff;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#272727;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#181818;fill-opacity:1;stroke:none"
        d="m 207,675 0,30 3,0 0,-30 -3,0 z"
        id="path6430-6-2-0" />
     <path
