@@ -3,7 +3,7 @@ author=Roman Gerasimenko
 comment=Dark Lines theme
 left_tabs=true
 joined_inactive_tabs=false
-attach_active_tab=false
+attach_active_tab=true
 group_toolbar_buttons=false
 center_toolbar_handle=true
 composite=true
@@ -40,20 +40,20 @@ link.color=#2EB8E6
 link.visited.color=#FF6666
 
 [PanelButtonCommand]
-frame.top=4
+frame.top=2
 frame.bottom=4
-frame.left=4
-frame.right=4
+frame.left=2
+frame.right=2
 text.margin.top=1
-text.margin.bottom=1
+text.margin.bottom=2
 text.margin.left=2
 text.margin.right=2
 
 
 [PanelButtonTool]
 frame.left=0
-frame.right=4
-frame.top=2
+frame.right=2
+frame.top=0
 
 [GenericFrame]
 frame.top=3
@@ -95,16 +95,16 @@ text.margin.right=3
 text.margin.left=5
 text.margin.right=5
 text.margin.bottom=4
-frame.top=5
-frame.bottom=3
+frame.top=4
+frame.bottom=0
 frame.left=5
 frame.right=5
 
 [TabFrame]
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=4
+frame.bottom=0
+frame.left=0
+frame.right=0
 
 [HeaderSection]
 frame.left=2
