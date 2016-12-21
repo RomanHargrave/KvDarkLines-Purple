@@ -49,7 +49,6 @@ text.margin.bottom=2
 text.margin.left=2
 text.margin.right=2
 
-
 [PanelButtonTool]
 frame.left=0
 frame.right=2
@@ -92,19 +91,16 @@ text.margin.left=3
 text.margin.right=3
 
 [Tab]
-text.margin.left=5
-text.margin.right=5
-text.margin.bottom=4
-frame.top=4
-frame.bottom=0
+frame.top=5
+frame.bottom=3
 frame.left=5
 frame.right=5
 
 [TabFrame]
-frame.top=4
-frame.bottom=0
-frame.left=0
-frame.right=0
+frame.top=5
+frame.bottom=5
+frame.left=5
+frame.right=5
 
 [HeaderSection]
 frame.left=2
@@ -122,7 +118,7 @@ frame.right=3
 
 [Toolbar]
 frame.top=0
-frame.bottom=4
+frame.bottom=5
 frame.left=0
 frame.right=0
 
