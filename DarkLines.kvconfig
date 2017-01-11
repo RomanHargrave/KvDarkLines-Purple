@@ -27,7 +27,7 @@ light.color=#626262
 mid.light.color=#555555
 dark.color=#171717
 mid.color=#3C3C3C
-highlight.color=#4b5a8e
+highlight.color=#80352d
 inactive.highlight.color=#4A4A4A
 tooltip.base.color=black
 text.color=white
@@ -41,7 +41,7 @@ link.visited.color=#FF6666
 
 [PanelButtonCommand]
 frame.top=2
-frame.bottom=4
+frame.bottom=2
 frame.left=2
 frame.right=2
 text.margin.top=1
@@ -51,8 +51,8 @@ text.margin.right=2
 
 [PanelButtonTool]
 frame.left=0
-frame.right=2
-frame.top=0
+frame.right=0
+frame.bottom=0
 
 [GenericFrame]
 frame.top=3
@@ -63,8 +63,8 @@ frame.right=3
 [LineEdit]
 frame.top=4
 frame.bottom=4
-frame.left=2
-frame.right=2
+frame.left=4
+frame.right=4
 text.margin.left=0
 text.margin.right=0
 
@@ -103,12 +103,8 @@ frame.left=3
 frame.right=3
 
 [HeaderSection]
-frame.left=2
+frame=false
 text.bold=true
-text.margin.top=2
-text.margin.bottom=2
-text.margin.left=3
-text.margin.right=3
 
 [SizeGrip]
 frame.top=3
@@ -140,7 +136,7 @@ frame.right=2
 [MenuItem]
 text.margin.top=2
 text.margin.bottom=2
-text.margin.left=3
+text.margin.left=4
 text.margin.right=16
 
 [MenuBarItem]
