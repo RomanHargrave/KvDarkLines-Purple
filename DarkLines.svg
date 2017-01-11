@@ -13,7 +13,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="DarkLines.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r"
    sodipodi:version="0.32"
    id="svg2"
    height="1380"
@@ -32,9 +32,9 @@
      pagecolor="#3e3e3e"
      id="base"
      showgrid="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="112.56189"
-     inkscape:cy="248.46999"
+     inkscape:zoom="5.656854"
+     inkscape:cx="305.59087"
+     inkscape:cy="1291.501"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:current-layer="svg2"
@@ -56,55 +56,68 @@
     <sodipodi:guide
        id="guide3599"
        position="179.93478,1249.5472"
-       orientation="1,0" />
+       orientation="1,0"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4486"
        position="375,1385"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4488"
        position="155,1263.0801"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4890"
        position="205,1198.0801"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide5473"
        position="110,893.08007"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide6032"
        position="150,500"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4500"
        position="170,445"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4996"
        position="275,338.08007"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4438"
        position="175,273.08007"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4440"
        position="160,730"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4573"
        position="205,205"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4859"
        position="167.5,130"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4955"
        position="205,85"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid6493"
@@ -130,6 +143,30 @@
   <defs
      id="defs5">
     <linearGradient
+       id="linearGradient5885"
+       inkscape:collect="always">
+      <stop
+         id="stop5881"
+         offset="0"
+         style="stop-color:#181818;stop-opacity:1" />
+      <stop
+         id="stop5883"
+         offset="1"
+         style="stop-color:#303030;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5879"
+       inkscape:collect="always">
+      <stop
+         id="stop5875"
+         offset="0"
+         style="stop-color:#181818;stop-opacity:1" />
+      <stop
+         id="stop5877"
+         offset="1"
+         style="stop-color:#303030;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient5822">
       <stop
@@ -137,7 +174,7 @@
          offset="0"
          id="stop5824" />
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="1"
          id="stop5826" />
     </linearGradient>
@@ -149,7 +186,7 @@
          offset="0"
          id="stop5816" />
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="1"
          id="stop5818" />
     </linearGradient>
@@ -157,7 +194,7 @@
        inkscape:collect="always"
        id="linearGradient5806">
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="0"
          id="stop5808" />
       <stop
@@ -173,7 +210,7 @@
          offset="0"
          id="stop5800" />
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="1"
          id="stop5802" />
     </linearGradient>
@@ -185,7 +222,7 @@
          offset="0"
          id="stop5784" />
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="1"
          id="stop5786" />
     </linearGradient>
@@ -193,11 +230,11 @@
        inkscape:collect="always"
        id="linearGradient5614">
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="0"
          id="stop5616" />
       <stop
-         style="stop-color:#0a0a0a;stop-opacity:1"
+         style="stop-color:#141414;stop-opacity:1"
          offset="1"
          id="stop5618" />
     </linearGradient>
@@ -205,11 +242,11 @@
        inkscape:collect="always"
        id="linearGradient5606">
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="0"
          id="stop5608" />
       <stop
-         style="stop-color:#0a0a0a;stop-opacity:1"
+         style="stop-color:#141414;stop-opacity:1"
          offset="1"
          id="stop5610" />
     </linearGradient>
@@ -217,11 +254,11 @@
        inkscape:collect="always"
        id="linearGradient5598">
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="0"
          id="stop5600" />
       <stop
-         style="stop-color:#0a0a0a;stop-opacity:1"
+         style="stop-color:#141414;stop-opacity:1"
          offset="1"
          id="stop5602" />
     </linearGradient>
@@ -233,7 +270,7 @@
          offset="0"
          id="stop5520" />
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="1"
          id="stop5522" />
     </linearGradient>
@@ -245,7 +282,7 @@
          offset="0"
          id="stop5512" />
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="1"
          id="stop5514" />
     </linearGradient>
@@ -253,7 +290,7 @@
        inkscape:collect="always"
        id="linearGradient5502">
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="0"
          id="stop5504" />
       <stop
@@ -265,7 +302,7 @@
        inkscape:collect="always"
        id="linearGradient5492">
       <stop
-         style="stop-color:#212121;stop-opacity:1;"
+         style="stop-color:#181818;stop-opacity:1"
          offset="0"
          id="stop5494" />
       <stop
@@ -281,7 +318,7 @@
          offset="0"
          id="stop5476" />
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="1"
          id="stop5478" />
     </linearGradient>
@@ -293,7 +330,7 @@
          offset="0"
          id="stop5468" />
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="1"
          id="stop5470" />
     </linearGradient>
@@ -305,51 +342,15 @@
          offset="0"
          id="stop5460" />
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="1"
          id="stop5462" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient6145">
-      <stop
-         style="stop-color:#181818;stop-opacity:1;"
-         offset="0"
-         id="stop6147" />
-      <stop
-         style="stop-color:#262626;stop-opacity:0"
-         offset="1"
-         id="stop6149" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6137">
-      <stop
-         style="stop-color:#5d5d5d;stop-opacity:1;"
-         offset="0"
-         id="stop6139" />
-      <stop
-         style="stop-color:#262626;stop-opacity:0"
-         offset="1"
-         id="stop6141" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6129">
-      <stop
-         style="stop-color:#262626;stop-opacity:0"
-         offset="0"
-         id="stop6131" />
-      <stop
-         style="stop-color:#181818;stop-opacity:1"
-         offset="1"
-         id="stop6133" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient6115">
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="0"
          id="stop6117" />
       <stop
@@ -361,7 +362,7 @@
        inkscape:collect="always"
        id="linearGradient6107">
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="0"
          id="stop6109" />
       <stop
@@ -373,7 +374,7 @@
        inkscape:collect="always"
        id="linearGradient6099">
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="0"
          id="stop6101" />
       <stop
@@ -475,11 +476,11 @@
       <stop
          id="stop5853"
          offset="0"
-         style="stop-color:#0a0a0a;stop-opacity:1" />
+         style="stop-color:#141414;stop-opacity:1" />
       <stop
          id="stop5855"
          offset="1"
-         style="stop-color:#212121;stop-opacity:1" />
+         style="stop-color:#181818;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -544,11 +545,11 @@
       <stop
          id="stop5944"
          offset="0"
-         style="stop-color:#0a0a0a;stop-opacity:1" />
+         style="stop-color:#141414;stop-opacity:1" />
       <stop
          id="stop5946"
          offset="1"
-         style="stop-color:#212121;stop-opacity:1" />
+         style="stop-color:#181818;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5914-7">
@@ -575,11 +576,11 @@
     <linearGradient
        id="linearGradient5878-6">
       <stop
-         style="stop-color:#0a0a0a;stop-opacity:1"
+         style="stop-color:#141414;stop-opacity:1"
          offset="0"
          id="stop5886" />
       <stop
-         style="stop-color:#212121;stop-opacity:1"
+         style="stop-color:#181818;stop-opacity:1"
          offset="1"
          id="stop5888" />
     </linearGradient>
@@ -588,11 +589,11 @@
       <stop
          id="stop5880"
          offset="0"
-         style="stop-color:#0a0a0a;stop-opacity:1" />
+         style="stop-color:#141414;stop-opacity:1" />
       <stop
          id="stop5882"
          offset="1"
-         style="stop-color:#212121;stop-opacity:1" />
+         style="stop-color:#181818;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient3771-9-3">
@@ -623,7 +624,7 @@
       <stop
          id="stop6304"
          offset="0"
-         style="stop-color:#131313;stop-opacity:1;" />
+         style="stop-color:#101010;stop-opacity:1" />
       <stop
          id="stop6306"
          offset="1"
@@ -632,7 +633,7 @@
     <linearGradient
        id="linearGradient8376">
       <stop
-         style="stop-color:#141414;stop-opacity:1"
+         style="stop-color:#101010;stop-opacity:1"
          offset="0"
          id="stop8378" />
       <stop
@@ -644,7 +645,7 @@
        inkscape:collect="always"
        id="linearGradient8360">
       <stop
-         style="stop-color:#141414;stop-opacity:0.94117647"
+         style="stop-color:#101010;stop-opacity:1"
          offset="0"
          id="stop8362" />
       <stop
@@ -2038,33 +2039,6 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6129"
-       id="linearGradient6135"
-       x1="-86.375"
-       y1="117.5"
-       x2="-77.5"
-       y2="117.5"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6137"
-       id="linearGradient6143"
-       x1="98"
-       y1="77.5"
-       x2="98"
-       y2="86.5"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6145"
-       id="linearGradient6151"
-       x1="136.93747"
-       y1="77.499985"
-       x2="136.93747"
-       y2="86.499985"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient5458"
        id="linearGradient5464"
        x1="197.5"
@@ -2094,18 +2068,18 @@
        inkscape:collect="always"
        xlink:href="#linearGradient5492"
        id="linearGradient5498"
-       x1="163.2724"
-       y1="1043.8374"
+       x1="163.71875"
+       y1="1044.2579"
        x2="167.25"
        y2="1047.25"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,1.1655828,0.28124976,-173.16913)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5502"
+       xlink:href="#linearGradient5879"
        id="linearGradient5508"
-       x1="201.41402"
-       y1="1043.8538"
+       x1="200.92168"
+       y1="1044.3123"
        x2="197.48755"
        y2="1047.4207"
        gradientUnits="userSpaceOnUse"
@@ -2130,7 +2104,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5502"
+       xlink:href="#linearGradient5885"
        id="linearGradient5498-3"
        x1="160.75011"
        y1="1041.7501"
@@ -2220,6 +2194,66 @@
        x2="1147.5"
        y2="-141.21889"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5885"
+       id="linearGradient5498-3-36"
+       x1="160.75011"
+       y1="1041.7501"
+       x2="164.50011"
+       y2="1044.9291"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.1655828,-364.0001,-2316.7015)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5885"
+       id="linearGradient5498-3-5"
+       x1="160.75011"
+       y1="1041.7501"
+       x2="164.50011"
+       y2="1044.9291"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.1655828,-1263.2947,-1052.4516)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5885"
+       id="linearGradient5498-3-5-1"
+       x1="160.75011"
+       y1="1041.7501"
+       x2="164.50011"
+       y2="1044.9291"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.1655828,-1273.25,-1052.4516)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5885"
+       id="linearGradient5498-3-36-9"
+       x1="160.75011"
+       y1="1041.7501"
+       x2="164.50011"
+       y2="1044.9291"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.1655828,35.9999,-107.45166)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5885"
+       id="linearGradient5498-3-5-1-8"
+       x1="160.75011"
+       y1="1041.7501"
+       x2="164.50011"
+       y2="1044.9291"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.1655828,956.84527,-1382.4516)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5885"
+       id="linearGradient5498-3-36-9-0"
+       x1="160.75011"
+       y1="1041.7501"
+       x2="164.50011"
+       y2="1044.9291"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.1655828,-364.0001,-2338.157)" />
   </defs>
   <g
      style="display:none"
@@ -2271,7 +2305,6 @@
      id="g6850"
      transform="matrix(1,0,0,-1,-173,791.58915)" />
   <text
-     sodipodi:linespacing="125%"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans"
      xml:space="preserve"
      id="text6990"
@@ -2378,7 +2411,6 @@
        x="266.40137"
        sodipodi:role="line">Checked</tspan></text>
   <text
-     sodipodi:linespacing="125%"
      id="text5845"
      y="417.72803"
      x="24.120768"
@@ -2409,7 +2441,6 @@
        x="268.69873"
        sodipodi:role="line">Checked</tspan></text>
   <text
-     sodipodi:linespacing="125%"
      id="text5845-0"
      y="492.85602"
      x="24.738445"
@@ -2616,7 +2647,6 @@
        id="tspan3563-1-8"
        sodipodi:role="line">Arrows</tspan></text>
   <text
-     sodipodi:linespacing="125%"
      id="text4502"
      y="148.00537"
      x="339.30179"
@@ -2641,8 +2671,7 @@
      y="729.90271"
      x="201.26463"
      style="font-size:26.56287575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:cmr10;-inkscape-font-specification:cmr10"
-     xml:space="preserve"
-     sodipodi:linespacing="125%"><tspan
+     xml:space="preserve"><tspan
        y="729.90271"
        x="201.26463"
        id="tspan3563-1-8-3-9"
@@ -2940,27 +2969,6 @@
      width="30"
      id="toolbar-normal"
      style="fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <g
-     transform="translate(-34.999962,-629.99999)"
-     inkscape:label="#g7676"
-     id="button-focused-left"
-     style="fill:#ffffff;fill-opacity:1">
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#404040;fill-opacity:1;stroke:none;opacity:0.95"
-       d="m 207,675 0,30 3,0 0,-30 -3,0 z"
-       id="path6430" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 204,675 0,30 3,0 0,-30 -3,0 z"
-       id="path6432" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 201,675 0,30 3,0 0,-30 -3,0 z"
-       id="path6434" />
-  </g>
   <rect
      inkscape:label="#rect7830"
      y="45.000011"
@@ -2968,7 +2976,7 @@
      height="30"
      width="30"
      id="button-focused"
-     style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.95" />
+     style="fill:#80352d;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:1" />
   <rect
      style="fill:url(#linearGradient7668);fill-opacity:1.0;fill-rule:evenodd;stroke:none"
      id="group-normal-left"
@@ -5842,11 +5850,11 @@
      x="330"
      y="45"
      height="30"
-     style="fill:#141414;fill-opacity:1;stroke:none"
+     style="fill:#212121;fill-opacity:1;stroke:none;opacity:1"
      id="button-toggled" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#181818;fill-rule:evenodd;stroke:none;fill-opacity:1"
+     style="fill:#141414;fill-rule:evenodd;stroke:none;fill-opacity:1"
      id="button-pressed"
      d="m 253.57892,43.578975 0,32.8421 32.8421,0 0,-32.8421 -32.8421,0 z" />
   <use
@@ -5868,7 +5876,7 @@
      height="100%"
      inkscape:label="#use5957" />
   <rect
-     style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:0.95"
+     style="fill:#80352d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:1"
      id="button-focused-topright"
      width="9"
      height="9"
@@ -5876,7 +5884,7 @@
      y="36"
      inkscape:label="#g7811" />
   <rect
-     style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:0.95"
+     style="fill:#80352d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:1"
      id="button-focused-right"
      width="8.875"
      height="30"
@@ -5884,7 +5892,7 @@
      y="45"
      inkscape:label="#g7819" />
   <rect
-     style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:0.95"
+     style="fill:#80352d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:1"
      id="button-focused-bottomright"
      width="9"
      height="9"
@@ -5892,7 +5900,7 @@
      y="75"
      inkscape:label="#g7751" />
   <rect
-     style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:0.95"
+     style="fill:#80352d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:1"
      id="button-focused-bottom"
      width="8.875"
      height="30"
@@ -5901,7 +5909,7 @@
      inkscape:label="#g7761"
      transform="matrix(0,-1,1,0,0,0)" />
   <rect
-     style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:0.95"
+     style="fill:#80352d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:1"
      id="button-focused-top"
      width="8.875"
      height="30"
@@ -5909,50 +5917,8 @@
      y="174.9375"
      inkscape:label="#g7671"
      transform="matrix(0,-1,1,0,0,0)" />
-  <g
-     transform="matrix(1,0,0,0.29999967,-35,-166.49977)"
-     inkscape:label="#g7676"
-     id="button-focused-topleft"
-     style="fill:#ffffff;fill-opacity:1">
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#404040;fill-opacity:1;stroke:none;opacity:0.95"
-       d="m 207,675 0,30 3,0 0,-30 -3,0 z"
-       id="path6430-6" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 204,675 0,30 3,0 0,-30 -3,0 z"
-       id="path6432-2" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 201,675 0,30 3,0 0,-30 -3,0 z"
-       id="path6434-9" />
-  </g>
-  <g
-     transform="matrix(1,0,0,0.29999967,-34.999969,-127.56226)"
-     inkscape:label="#g7719"
-     id="button-focused-bottomleft"
-     style="fill:#ffffff;fill-opacity:1">
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#404040;fill-opacity:1;stroke:none;opacity:0.95"
-       d="m 207,675 0,30 3,0 0,-30 -3,0 z"
-       id="path6430-6-2" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 204,675 0,30 3,0 0,-30 -3,0 z"
-       id="path6432-2-7" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 201,675 0,30 3,0 0,-30 -3,0 z"
-       id="path6434-9-0" />
-  </g>
   <rect
-     style="fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-pressed-topright"
      width="9"
      height="9"
@@ -5960,7 +5926,7 @@
      y="35.5"
      inkscape:label="#g7811" />
   <rect
-     style="fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-pressed-right"
      width="8.875"
      height="30"
@@ -5968,7 +5934,7 @@
      y="45"
      inkscape:label="#g7819" />
   <rect
-     style="fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-pressed-bottomright"
      width="9"
      height="9"
@@ -5976,7 +5942,7 @@
      y="75.5"
      inkscape:label="#g7751" />
   <rect
-     style="fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-pressed-bottom"
      width="8.875"
      height="30"
@@ -5985,7 +5951,7 @@
      inkscape:label="#g7761"
      transform="matrix(0,-1,1,0,0,0)" />
   <rect
-     style="fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-pressed-top"
      width="8.875"
      height="30"
@@ -5997,20 +5963,20 @@
      transform="matrix(1,0,0,0.29999967,44.5,-166.99977)"
      inkscape:label="#g7676"
      id="button-pressed-topleft"
-     style="fill:#ffffff;fill-opacity:1">
+     style="fill:#ca5247;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#181818;fill-opacity:1;stroke:none"
+       style="fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 207,675 0,30 3,0 0,-30 -3,0 z"
        id="path6430-6-6" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 204,675 0,30 3,0 0,-30 -3,0 z"
        id="path6432-2-1" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 201,675 0,30 3,0 0,-30 -3,0 z"
        id="path6434-9-8" />
   </g>
@@ -6018,20 +5984,20 @@
      transform="translate(44.5,-630)"
      inkscape:label="#g7676"
      id="button-pressed-left"
-     style="fill:#ffffff;fill-opacity:1">
+     style="fill:#ca5247;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#181818;fill-opacity:1;stroke:none"
+       style="fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 207,675 0,30 3,0 0,-30 -3,0 z"
        id="path6430-9" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 204,675 0,30 3,0 0,-30 -3,0 z"
        id="path6432-20" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 201,675 0,30 3,0 0,-30 -3,0 z"
        id="path6434-2" />
   </g>
@@ -6039,25 +6005,25 @@
      transform="matrix(1,0,0,0.29999967,44.5,-126.99977)"
      inkscape:label="#g7719"
      id="button-pressed-bottomleft"
-     style="fill:#ffffff;fill-opacity:1">
+     style="fill:#ca5247;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#181818;fill-opacity:1;stroke:none"
+       style="fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 207,675 0,30 3,0 0,-30 -3,0 z"
        id="path6430-6-2-7" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 204,675 0,30 3,0 0,-30 -3,0 z"
        id="path6432-2-7-5" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 201,675 0,30 3,0 0,-30 -3,0 z"
        id="path6434-9-0-9" />
   </g>
   <rect
-     style="fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:1"
      id="button-toggled-bottom"
      width="8.875"
      height="30"
@@ -6066,7 +6032,7 @@
      inkscape:label="#g7761"
      transform="matrix(0,-1,1,0,0,0)" />
   <rect
-     style="fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;opacity:1"
      id="button-toggled-top"
      width="8.875"
      height="30"
@@ -6078,20 +6044,20 @@
      transform="matrix(1,0,0,0.29999967,119.5,-126.99977)"
      inkscape:label="#g7719"
      id="button-toggled-bottomleft"
-     style="fill:#ffffff;fill-opacity:1">
+     style="fill:#ca5247;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#141414;fill-opacity:1;stroke:none"
+       style="fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 207,675 0,30 3,0 0,-30 -3,0 z"
        id="path6430-6-2-7-6" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 204,675 0,30 3,0 0,-30 -3,0 z"
        id="path6432-2-7-5-1" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 201,675 0,30 3,0 0,-30 -3,0 z"
        id="path6434-9-0-9-2" />
   </g>
@@ -6099,20 +6065,20 @@
      transform="translate(119.5,-630)"
      inkscape:label="#g7676"
      id="button-toggled-left"
-     style="fill:#ffffff;fill-opacity:1">
+     style="fill:#ca5247;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#141414;fill-opacity:1;stroke:none"
+       style="fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 207,675 0,30 3,0 0,-30 -3,0 z"
        id="path6430-9-3" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 204,675 0,30 3,0 0,-30 -3,0 z"
        id="path6432-20-1" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 201,675 0,30 3,0 0,-30 -3,0 z"
        id="path6434-2-9" />
   </g>
@@ -6120,20 +6086,20 @@
      transform="matrix(1,0,0,0.29999967,119.5,-167.49978)"
      inkscape:label="#g7676"
      id="button-toggled-topleft"
-     style="fill:#ffffff;fill-opacity:1">
+     style="fill:#ca5247;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#141414;fill-opacity:1;stroke:none"
+       style="fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 207,675 0,30 3,0 0,-30 -3,0 z"
        id="path6430-6-6-7" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 204,675 0,30 3,0 0,-30 -3,0 z"
        id="path6432-2-1-8" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ca5247;fill-opacity:1;stroke:none"
        d="m 201,675 0,30 3,0 0,-30 -3,0 z"
        id="path6434-9-8-4" />
   </g>
@@ -6371,7 +6337,7 @@
      y="1042.21"
      inkscape:label="#rect6585" />
   <rect
-     style="fill:#0a0a0a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="tab-focused"
      width="30"
      height="30"
@@ -6583,7 +6549,7 @@
        height="30"
        width="8.875"
        id="button-toggled-bottom-6"
-       style="fill:#80352d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1" />
+       style="fill:#707070;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1" />
     <rect
        inkscape:label="#g7761"
        y="57"
@@ -6591,7 +6557,7 @@
        height="30"
        width="8.875"
        id="button-toggled-bottom-2"
-       style="fill:#80352d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1" />
+       style="fill:#707070;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1" />
   </g>
   <rect
      y="1484.25"
@@ -8249,7 +8215,7 @@
        y="1041.895" />
   </g>
   <rect
-     style="opacity:1;fill:#0a0a0a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="tab-focused-left"
      width="6.4375005"
      height="30"
@@ -8259,7 +8225,7 @@
   <g
      id="tab-focused-right"
      inkscape:label="#g5862"
-     style="fill:#0a0a0a;fill-opacity:1">
+     style="fill:#141414;fill-opacity:1">
     <rect
        inkscape:label="#rect6579"
        y="1047.5"
@@ -8267,14 +8233,14 @@
        height="30"
        width="6.4375005"
        id="tab-focused-right1"
-       style="opacity:1;fill:#0a0a0a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1" />
+       style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1" />
     <rect
        y="1047.4751"
        x="140.42316"
        height="30"
        width="3.5"
        id="rect5803-3-3"
-       style="opacity:1;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <rect
      style="opacity:1;fill:url(#linearGradient5904);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
@@ -8455,9 +8421,9 @@
      height="30"
      width="30"
      id="button-normal"
-     style="opacity:1;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <rect
-     style="opacity:1;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-normal-topright"
      width="9"
      height="9"
@@ -8465,7 +8431,7 @@
      y="38.499989"
      inkscape:label="#g7811" />
   <rect
-     style="opacity:1;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-normal-right"
      width="8.875"
      height="30"
@@ -8473,7 +8439,7 @@
      y="47.499989"
      inkscape:label="#g7819" />
   <rect
-     style="opacity:1;fill:url(#linearGradient6151);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-normal-bottomright"
      width="9"
      height="9"
@@ -8481,7 +8447,7 @@
      y="77.499985"
      inkscape:label="#g7751" />
   <rect
-     style="opacity:1;fill:url(#linearGradient6135);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-normal-bottom"
      width="8.875"
      height="30"
@@ -8490,7 +8456,7 @@
      inkscape:label="#g7761"
      transform="matrix(0,-1,1,0,0,0)" />
   <rect
-     style="opacity:1;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
      id="button-normal-top"
      width="8.875"
      height="30"
@@ -8562,7 +8528,7 @@
        y="1047.4751" />
   </g>
   <rect
-     style="opacity:1;fill:#5d5d5d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="button-normal-left"
      width="9"
      height="30"
@@ -8570,7 +8536,7 @@
      y="47.5"
      inkscape:label="#rect6123" />
   <rect
-     style="opacity:1;fill:#5d5d5d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="button-normal-topleft"
      width="9"
      height="9"
@@ -8578,7 +8544,7 @@
      y="38.5"
      inkscape:label="#rect6125" />
   <rect
-     style="opacity:1;fill:url(#linearGradient6143);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#141414;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="button-normal-bottomleft"
      width="9"
      height="9"
@@ -8586,7 +8552,7 @@
      y="77.5"
      inkscape:label="#rect6127" />
   <rect
-     style="opacity:1;fill:#80352d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#212121;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="button-toggled-right"
      width="9"
      height="30"
@@ -8594,7 +8560,7 @@
      y="45"
      inkscape:label="#rect6123" />
   <rect
-     style="opacity:1;fill:#80352d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#212121;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="button-toggled-topright"
      width="9"
      height="9"
@@ -8602,7 +8568,7 @@
      y="35.5"
      inkscape:label="#rect6125" />
   <rect
-     style="opacity:1;fill:#80352d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#212121;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="button-toggled-bottomright"
      width="9"
      height="9"
@@ -8642,4 +8608,81 @@
      y="-202.45535"
      inkscape:label="#rect5490"
      transform="matrix(0,1,-1,0,0,0)" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient5498-3-36);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="tabframe-normal-bottom-rightjunct"
+     width="6.5"
+     height="6.4107056"
+     x="-203.25"
+     y="-1102.4553"
+     inkscape:label="#rect5490"
+     transform="scale(-1)" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient5498-3-5);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="tabframe-normal-bottom-leftjunct"
+     width="6.5"
+     height="6.4107056"
+     x="-1102.5447"
+     y="161.79465"
+     inkscape:label="#rect5490"
+     transform="rotate(-90)" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient5498-3-5-1);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="tabframe-normal-left-leftjunct"
+     width="6.5"
+     height="6.4107056"
+     x="-1112.5"
+     y="161.79465"
+     inkscape:label="#rect5490"
+     transform="rotate(-90)" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient5498-3-36-9);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="tabframe-normal-left-rightjunct"
+     width="6.5"
+     height="6.4107056"
+     x="196.75"
+     y="1106.7947"
+     inkscape:label="#rect5490" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient5498-3-5-1-8);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="tabframe-normal-right-leftjunct"
+     width="6.5"
+     height="6.4107056"
+     x="1117.5953"
+     y="-168.20535"
+     inkscape:label="#rect5490"
+     transform="rotate(90)" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient5498-3-36-9-0);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="tabframe-normal-right-rightjunct"
+     width="6.5"
+     height="6.4107056"
+     x="-203.25"
+     y="-1123.9106"
+     inkscape:label="#rect5490"
+     transform="scale(-1)" />
+  <rect
+     style="opacity:1;fill:#80352d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     id="button-focused-topleft"
+     width="9"
+     height="9"
+     x="166.0625"
+     y="36"
+     inkscape:label="#g7811" />
+  <rect
+     style="opacity:1;fill:#80352d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     id="button-focused-left"
+     width="8.875"
+     height="30"
+     x="166.125"
+     y="45"
+     inkscape:label="#g7819" />
+  <rect
+     style="opacity:1;fill:#80352d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+     id="button-focused-bottomleft"
+     width="9"
+     height="9"
+     x="166.0625"
+     y="75"
+     inkscape:label="#g7751" />
 </svg>
