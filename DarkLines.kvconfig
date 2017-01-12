@@ -12,8 +12,7 @@ popup_blurring=true
 menu_shadow_depth=6
 tooltip_shadow_depth=12
 animate_states=true
-button_icon_size=24
-toolbar_icon_size=32
+button_icon_size=20
 merge_menubar_with_toolbar=true
 scroll_arrows=false
 combo_as_lineedit=true
@@ -61,10 +60,10 @@ frame.left=3
 frame.right=3
 
 [LineEdit]
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 text.margin.left=0
 text.margin.right=0
 
@@ -154,10 +153,6 @@ text.margin.right=3
 [ComboBox]
 inherits=PanelButtonCommand
 text.bold=true
-text.margin.top=2
-text.margin.bottom=2
-text.margin.left=3
-text.margin.right=3
 
 [Hacks]
 respect_darkness=true
