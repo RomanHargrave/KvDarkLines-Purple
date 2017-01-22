@@ -91,7 +91,7 @@ text.margin.right=3
 
 [Tab]
 frame.top=3
-frame.bottom=1
+frame.bottom=0
 frame.left=3
 frame.right=3
 

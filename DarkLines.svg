@@ -32,9 +32,9 @@
      pagecolor="#3e3e3e"
      id="base"
      showgrid="true"
-     inkscape:zoom="5.656854"
-     inkscape:cx="305.59087"
-     inkscape:cy="1291.501"
+     inkscape:zoom="0.99999996"
+     inkscape:cx="541.12326"
+     inkscape:cy="246.59375"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:current-layer="svg2"
@@ -4383,7 +4383,7 @@
        d="m 227.2385,689 -2.2462,0 0,2 2.2462,0 z m -4.4924,0 -2.2461,0 0,2 2.2461,0 z" />
   </g>
   <rect
-     style="fill:#198cff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="fill:#141414;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.9"
      id="tab-tear"
      width="15"
      height="15"
