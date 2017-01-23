@@ -151,7 +151,7 @@ text.margin.left=3
 text.margin.right=3
 
 [ComboBox]
-inherits=PanelButtonCommand
+inherits=LineEdit
 text.bold=true
 
 [Hacks]
