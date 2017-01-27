@@ -2,7 +2,7 @@
 author=Roman Gerasimenko
 comment=Dark Lines theme
 left_tabs=true
-joined_inactive_tabs=false
+joined_inactive_tabs=true
 attach_active_tab=true
 group_toolbar_buttons=false
 center_toolbar_handle=true
@@ -10,12 +10,13 @@ composite=true
 blurring=true
 popup_blurring=true
 menu_shadow_depth=6
-tooltip_shadow_depth=12
 animate_states=true
-button_icon_size=20
+small_icon_size=16
+button_icon_size=16
 merge_menubar_with_toolbar=true
 scroll_arrows=false
 combo_as_lineedit=true
+button_contents_shift=false
 
 [GeneralColors]
 window.color=#212121
@@ -26,7 +27,7 @@ light.color=#626262
 mid.light.color=#555555
 dark.color=#171717
 mid.color=#3C3C3C
-highlight.color=#80352d
+highlight.color=#ca5247
 inactive.highlight.color=#4A4A4A
 tooltip.base.color=black
 text.color=white
@@ -39,77 +40,39 @@ link.color=#2EB8E6
 link.visited.color=#FF6666
 
 [PanelButtonCommand]
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
-text.margin.top=1
-text.margin.bottom=2
-text.margin.left=2
-text.margin.right=2
+frame=false
+size.minwidth=26
+size.minheight=26
 
 [PanelButtonTool]
-frame.left=0
-frame.right=0
-frame.bottom=0
-
-[GenericFrame]
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.left=2
+frame.right=2
+frame.bottom=2
+frame.top=2
 
 [LineEdit]
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
-text.margin.left=0
-text.margin.right=0
+frame=false
+size.minwidth=26
+size.minheight=26
 
 [IndicatorSpinBox]
+inherits=LineEdit
+
+[Tab]
 frame.top=2
 frame.bottom=2
 frame.left=2
 frame.right=2
 
-[DropDownButton]
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
-
-[ToolboxTab]
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
-text.margin.top=2
-text.margin.bottom=2
-text.margin.left=3
-text.margin.right=3
-
-[Tab]
-frame.top=3
-frame.bottom=0
-frame.left=3
-frame.right=3
-
 [TabFrame]
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 
 [HeaderSection]
 frame=false
 text.bold=true
-
-[SizeGrip]
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
 
 [Toolbar]
 frame.top=0
@@ -118,7 +81,6 @@ frame.left=0
 frame.right=0
 
 [ScrollbarSlider]
-interior=false
 frame.top=6
 frame.bottom=6
 frame.left=6
@@ -136,7 +98,7 @@ frame.right=2
 text.margin.top=2
 text.margin.bottom=2
 text.margin.left=4
-text.margin.right=16
+text.margin.right=6
 
 [MenuBarItem]
 text.margin.top=2
