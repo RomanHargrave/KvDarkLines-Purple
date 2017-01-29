@@ -40,7 +40,10 @@ link.color=#2EB8E6
 link.visited.color=#FF6666
 
 [PanelButtonCommand]
-frame=false
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 size.minwidth=26
 size.minheight=26
 
@@ -51,9 +54,7 @@ frame.bottom=2
 frame.top=2
 
 [LineEdit]
-frame=false
-size.minwidth=26
-size.minheight=26
+inherits=PanelButtonCommand
 
 [IndicatorSpinBox]
 inherits=LineEdit
@@ -71,7 +72,10 @@ frame.left=3
 frame.right=3
 
 [HeaderSection]
-frame=false
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 text.bold=true
 
 [Toolbar]
