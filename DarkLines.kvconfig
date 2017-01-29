@@ -9,7 +9,7 @@ center_toolbar_handle=true
 composite=true
 blurring=true
 popup_blurring=true
-menu_shadow_depth=6
+menu_shadow_depth=1
 animate_states=true
 small_icon_size=16
 button_icon_size=16
@@ -97,6 +97,10 @@ frame.top=2
 frame.bottom=2
 frame.left=2
 frame.right=2
+
+[Menu]
+frame.top=4
+frame.bottom=4
 
 [MenuItem]
 text.margin.top=2
