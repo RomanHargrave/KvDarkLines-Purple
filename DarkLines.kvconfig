@@ -27,17 +27,17 @@ light.color=#626262
 mid.light.color=#555555
 dark.color=#171717
 mid.color=#3C3C3C
-highlight.color=#ca5247
+highlight.color=#CA47B6
 inactive.highlight.color=#4A4A4A
-tooltip.base.color=black
-text.color=white
-window.text.color=white
-button.text.color=white
+tooltip.base.color=#212121
+text.color=#F0F0F0
+window.text.color=#F0F0F0
+button.text.color=#F0F0F0
 disabled.text.color=#A0A0A0
-tooltip.text.color=white
-highlight.text.color=white
+tooltip.text.color=#F0F0F0
+highlight.text.color=#F0F0F0
 link.color=#2EB8E6
-link.visited.color=#FF6666
+link.visited.color=#FF66E8
 
 [PanelButtonCommand]
 frame.top=2
